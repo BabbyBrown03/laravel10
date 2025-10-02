@@ -8,7 +8,7 @@
 <body>
     @include('components.header')
 
-    <main style="background-color: #FFF0CE; width:400px; border: black 1px solid ">
+    <main style="background-color: #FFF0CE; width:800px; border: black 1px solid ">
         @yield('content')
     </main>
     
